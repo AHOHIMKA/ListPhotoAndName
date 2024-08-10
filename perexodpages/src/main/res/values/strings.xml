@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PerexodPages</string>
+    <string name="Text_Start">Здравствуйте</string>
+    <string name="Button1_Next">Далее</string>
+    <string name="Button1_Back">Назад</string>
+    <string name="TextBox_name">Введите имя</string>
+</resources>
